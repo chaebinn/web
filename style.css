@@ -1,0 +1,50 @@
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+body {
+  font-family: "Noto Sans KR", monospace;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+header {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url(image/Header.jpg);
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 30px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  background-color:#222722;
+  border-radius: 200px;
+}
+
+#easy {
+  background-image: url('image/easy.jpg');
+  background-size: cover;
+  text-align: center;
+  font-size: 25px; 
+
+  
+}
+#intro,#compare h4{
+  font-size: 22px; 
+  font-weight: 400;
+}
+#intro,#compare p{
+  font-size: 28px; 
+  font-weight: 700;
+}
+
+

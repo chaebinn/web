@@ -1,0 +1,27 @@
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+body {
+font-family: "Noto Sans KR", monospace;
+font-weight: 400;
+font-style: normal;
+
+}
+#type,#equipment,#model,#condition {
+  font-size: 25px; 
+  font-weight: 600;
+}
+#card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 30px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  background-color:#222722;
+  border-radius: 7px;
+}
